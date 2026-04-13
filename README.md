@@ -109,7 +109,22 @@ Paste this file content into that repo's README.md
 
 ## GitHub stats (optional)
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshkshitij&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&cache_seconds=86400) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkshitij&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400) |
-| --- | --- |
+<p align="center">
+  <img
+    height="165"
+    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarshkshitij&amp;theme=tokyonight"
+  />
+  <img
+    height="165"
+    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarshkshitij&amp;theme=tokyonight"
+  />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=adarshkshitij&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    alt="Streak"
+    src="https://streak-stats.demolab.com?user=adarshkshitij&amp;theme=tokyonight&amp;hide_border=true"
+  />
+</p>
