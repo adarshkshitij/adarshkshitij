@@ -107,7 +107,7 @@ Paste this file content into that repo's README.md
 
 ---
 
-## GitHub stats (optional)
+## GitHub stats 
 
 <p align="center">
   <img
