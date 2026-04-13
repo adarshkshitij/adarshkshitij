@@ -10,10 +10,18 @@ Paste this file content into that repo's README.md
 </p>
 
 <p align="center">
-  <a href="mailto:adarshandadarsh24@gmail.com">adarshandadarsh24@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/adarsh-kshitij/">LinkedIn</a> |
-  <a href="https://YOUR_PORTFOLIO/">Portfolio</a> |
-  <a href="https://YOUR_RESUME_LINK/">Resume</a>
+  <a href="mailto:adarshandadarsh24@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/adarsh-kshitij/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://YOUR_RESUME_LINK/">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-0b1220?style=for-the-badge&logo=readthedocs" />
+  </a>
 </p>
 
 ---
@@ -73,20 +81,20 @@ Paste this file content into that repo's README.md
 
 ## Featured projects
 
-- **Finance Ledger and Analytics Backend** (TypeScript, Node.js, Express, PostgreSQL, Prisma)
-  - API docs: https://zorvyn-finance-backend-42za.onrender.com/api/docs/
-  - Highlights: JWT auth + RBAC, modular architecture, optimized queries, CI/CD
-
 - **Mall of America - High-performance interactive web experience** (React, GSAP, Lenis)
-  - Live: https://mall-of-america-six.vercel.app/
+  - <a href="https://mall-of-america-six.vercel.app/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-0b1220?style=for-the-badge&logo=vercel" /></a>
   - Highlights: 60fps interactions, optimized media delivery, 98+ Lighthouse
 
+- **Finance Ledger and Analytics Backend** (TypeScript, Node.js, Express, PostgreSQL, Prisma)
+  - <a href="https://zorvyn-finance-backend-42za.onrender.com/api/docs/"><img alt="API Docs" src="https://img.shields.io/badge/API%20Docs-0b1220?style=for-the-badge&logo=swagger" /></a>
+  - Highlights: JWT auth + RBAC, modular architecture, optimized queries, CI/CD
+
 - **CitySpot - Smart parking automation platform** (Node.js, MongoDB, Socket.io, Stripe, Docker)
-  - Live: (add link)
+  - <a href="https://YOUR_CITYSPOT_LIVE/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-0b1220?style=for-the-badge&logo=vercel" /></a>
   - Highlights: real-time booking, reduced booking time 15 min -> 90 sec, low latency
 
 - **MajlisOS - Real-time hospitality management platform** (Node.js, MongoDB, Socket.io, Docker)
-  - Live: (add link)
+  - <a href="https://YOUR_MAJLISOS_LIVE/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-0b1220?style=for-the-badge&logo=vercel" /></a>
   - Highlights: QR-based workflows, RBAC, improved operational efficiency
 
 ---
@@ -101,22 +109,7 @@ Paste this file content into that repo's README.md
 
 ## GitHub stats (optional)
 
-<p align="center">
-  <img
-    height="165"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=adarshkshitij&show_icons=true&hide_title=true&theme=tokyonight"
-  />
-  <img
-    height="165"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkshitij&layout=compact&theme=tokyonight"
-  />
-</p>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshkshitij&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&cache_seconds=86400) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkshitij&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400) |
+| --- | --- |
 
-<p align="center">
-  <img
-    alt="Streak"
-    src="https://streak-stats.demolab.com?user=adarshkshitij&theme=tokyonight&hide_border=true"
-  />
-</p>
+![Streak](https://streak-stats.demolab.com?user=adarshkshitij&theme=tokyonight&hide_border=true)
