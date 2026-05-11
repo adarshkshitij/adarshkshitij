@@ -6,7 +6,7 @@ Paste this file content into that repo's README.md
 
 <h1 align="center">Adarsh Kumar</h1>
 <p align="center">
-  Full-stack engineer (1.5+ years) | Backend + DevOps + Frontend
+  Full-stack engineer (2.5+ years) | Backend + DevOps + Frontend
 </p>
 
 <p align="center">
